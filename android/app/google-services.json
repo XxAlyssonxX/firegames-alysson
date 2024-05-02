@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112932217861",
+    "project_id": "jonasodb-30e4f",
+    "storage_bucket": "jonasodb-30e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112932217861:android:a6f7e7a34a3fbd0bdea86c",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.firegames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBub9f-1F8Ou-lhe2vDkYFCBjCqc_5lQ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
